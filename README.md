@@ -28,11 +28,14 @@ Python 3.4.5 (default, Jan 12 2017, 02:28:40)
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 
+![p2](https://user-images.githubusercontent.com/16610336/96467069-2c977200-1248-11eb-995b-e6a76edb2c37.png)
+
 then you don't have to do anything else.
 
 If Python 3 is absent, then refer to your Linux documentation in order to find how to use your package manager to download and install a new package - the one you need is named python3 or its name begins with that.
 
 All non-Linux users can  download Python from the given link https://www.python.org/downloads/.
+
 
 # Downloading and installing Python
 
@@ -47,6 +50,8 @@ Leave the default settings the installer suggests for now, with one exception - 
 This will make things easier.
 
 If you're a macOS user, a version of Python 2 may already have been preinstalled on your computer, but since we will be working with Python 3, you will still need to download and install the relevant .pkg file from the Python site.
+
+![p3](https://user-images.githubusercontent.com/16610336/96467077-2e613580-1248-11eb-8527-fda0cb27cd42.png)
 
 # Starting your work with Python
 
@@ -68,5 +73,5 @@ IDLE is an acronym: Integrated Development and Learning Environment.
 
 Navigate through your OS menus, find IDLE somewhere under Python 3.x and launch it. This is what you should see:
 
-
+![p1](https://user-images.githubusercontent.com/16610336/96467041-27d2be00-1248-11eb-8cbd-0711f7d500f1.png)
 
